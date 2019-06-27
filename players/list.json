@@ -1,0 +1,5 @@
+{"name":"Dmitry","phone":"9999","prizes":["4"]},{"name":"Vladimir","phone":"7777","prizes":["4"]},{"name":"Oleg","phone":"44444","prizes":["4"]},{"name":"Natasha","phone":"5555","prizes":["4"]},{"name":"Igor","phone":"1111","prizes":["4"]}
+,{"name":"Vitaly","phone":"3333","prizes":["4"],"repost":false,"ticket":1}
+,{"name":"Vitaly","phone":"3333","prizes":["4"],"repost":1,"ticket":false}
+
+,{"name":"Vitaly","phone":"3333","prizes":["4"],"repost":1,"ticket":1, "tries_left": 3}
