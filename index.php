@@ -190,6 +190,12 @@
                     </span>
                   </div>
                 </div>
+                <div class="spin-container__count">
+                  <div class="spin-count">
+                    <span class="spin-count__text">Попыток:</span>
+                    <span class="spin-count__times">3</span>
+                  </div>
+                </div>
               </div>
               <div class="text-center">
                 <button id="modal-btn" class="btn btn--primary">ПОЛУЧИТЬ ВРАЩЕНИЕ</button>
@@ -262,6 +268,24 @@
             <div class="modal-body">
               <button class="btn btn--primary btn--block buy-ticket">КУПИТЬ БИЛЕТ К ЕНОТИКАМ</button>
               <button class="btn btn--primary btn--block share-link">Поделиться ссылкой с друзьями</button>
+              <div class="social">
+                <ul class="social-list">
+                  <li><a href="#"><img src="img/vk.png" alt="..."></a></li>
+                  <li><a href="#"><img src="img/facebook.png" alt="..."></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="modal-msg" class="modal modal-msg">
+        <div class="modal-dialog">
+          <div class="modal-content text-center">
+            <div class="modal-header">
+              <span id="modal-msg-text"></span>
+              <span class="close">
+                <i class="close__icon"></i>
+              </span>
             </div>
           </div>
         </div>
